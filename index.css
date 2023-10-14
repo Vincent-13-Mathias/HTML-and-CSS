@@ -1,0 +1,121 @@
+* {
+
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+}
+
+body {
+
+        background-image: url(/wolf.jpg);
+        
+}
+
+#wide {
+
+        margin-left: 550px;
+        color: #fff;
+        margin-top: 10px;
+}
+
+#full {
+
+        margin-left: 440px;
+        color: #fff;
+        font-size: 40px;
+}
+
+.flow {
+
+    margin-left: 550px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid transparent;
+    backdrop-filter: blur(50px);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+}
+
+.focus {
+
+        margin-left: 500px;
+        margin-top: 40px;
+        color: #fff;
+        background-color: transparent;
+        border: 1px solid transparent;
+        backdrop-filter: blur(50px);
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 25px;
+        padding-right: 25px;
+        border-radius: 25px;
+}
+
+#space {
+
+        padding-left: 25px;
+        border: 2px;
+}
+
+.code {
+
+        color: #fff;
+        margin-top: 370px;
+}
+
+
+.group {
+
+     position: absolute;
+     bottom: 10px;
+     right: 10px; 
+
+       
+}
+
+.group ul {
+
+        display: inline-flex;
+        list-style: none;
+    }
+    
+    .group ul li {
+    
+            width: 100px;
+            margin: 10px;
+            padding: 10px;
+    }
+    
+    .group ul li a {
+    
+            text-decoration: none;
+            color: #fff;
+            
+    }
+
+    #dot {
+
+                padding-left: 6px;
+    }
+
+    #dots {
+
+                padding-left: 15px;
+    }
+
+    .point {
+
+                margin-right: 4px;
+    }
+
+   
+
+  
+
+
+
+
